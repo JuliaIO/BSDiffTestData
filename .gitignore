@@ -1,0 +1,6 @@
+*.bz2
+*.gz
+*.xz
+*.zstd
+.DS_Store
+/tmp/
